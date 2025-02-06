@@ -29,7 +29,7 @@ A React-based web application that integrates with Google's Gemini AI API to pro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gemini-ai-assistant.git
+git clone https://github.com/nikpatil2123/gemini-ai-assistant.git
 cd gemini-ai-assistant
 ```
 
