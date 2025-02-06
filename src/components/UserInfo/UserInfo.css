@@ -1,0 +1,11 @@
+.user-info {
+	background-color: #e8f4f8;
+	padding: 15px;
+	border-radius: 8px;
+	margin-bottom: 20px;
+}
+
+.username {
+	font-weight: bold;
+	color: #2c5282;
+}
